@@ -1,0 +1,63 @@
+> out <- mat2r('computeCyclogenesis.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/computeCyclogenesis.R")
+Error: could not find function "mat2r"
+> setwd("C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere")
+> getwd()
+[1] "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere"
+> library(matconv)
+> out <- mat2r('computeCyclogenesis.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/computeCyclogenesis.R")
+The previous code had 32 lines and the R code has 32 lines
+Warning message:
+In readLines(inMat) :
+  incomplete final line found on 'computeCyclogenesis.m'
+> out <- mat2r('delaunaySph.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/delaunaySph.R")
+The previous code had 29 lines and the R code has 29 lines
+> out <- mat2r('findKNearestNeighbors.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/findKNearestNeighbors.R")
+The previous code had 72 lines and the R code has 72 lines
+> out <- mat2r('getCubedSphNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getCubedSphNodes.R")
+The previous code had 65 lines and the R code has 65 lines
+> out <- mat2r('getFibonacciNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getFibonacciNodes.R")
+The previous code had 34 lines and the R code has 34 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'getFibonacciNodes.m'
+> out <- mat2r('getHammersleyNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getHammersleyNodes.R")
+The previous code had 70 lines and the R code has 70 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'getHammersleyNodes.m'
+> out <- mat2r('getHEALPixNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getHEALPixNodes.R")
+The previous code had 67 lines and the R code has 67 lines
+> out <- mat2r('getIcosNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getIcosNodes.R")
+The previous code had 226 lines and the R code has 226 lines
+> out <- mat2r('getMaxDetNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getMaxDetNodes.R")
+The previous code had 67 lines and the R code has 67 lines
+> out <- mat2r('getMinEnergyNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/getMinEnergyNodes.R")
+The previous code had 70 lines and the R code has 70 lines
+> out <- mat2r('plotCoastLines.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/plotCoastLines.R")
+The previous code had 95 lines and the R code has 95 lines
+> out <- mat2r('plotSphNodes.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/plotSphNodes.R")
+The previous code had 48 lines and the R code has 48 lines
+> out <- mat2r('rbfvectdecomp.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/rbfvectdecomp.R")
+The previous code had 198 lines and the R code has 198 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'rbfvectdecomp.m'
+> out <- mat2r('setupCyclogenesis.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/setupCyclogenesis.R")
+The previous code had 43 lines and the R code has 43 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'setupCyclogenesis.m'
+> out <- mat2r('setupSBRot.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/setupSBRot.R")
+The previous code had 39 lines and the R code has 39 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'setupSBRot.m'
+> out <- mat2r('sph2hammer.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/sph2hammer.R")
+The previous code had 22 lines and the R code has 22 lines
+> out <- mat2r('sphHarm.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/sphHarm.R")
+The previous code had 60 lines and the R code has 60 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'sphHarm.m'
+> out <- mat2r('sphv2cartv.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/sphv2cartv.R")
+The previous code had 47 lines and the R code has 47 lines
+> out <- mat2r('voronoiDiagramSph.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/voronoiDiagramSph.R")
+The previous code had 110 lines and the R code has 110 lines
+> out <- mat2r('voronoiSph.m',pathOutR = "C:/Users/Klirk/Desktop/GRA 2016/code_and_papers/rbfsphere/voronoiSph.R")
+The previous code had 111 lines and the R code has 113 lines
+Warning message:
+In readLines(inMat) : incomplete final line found on 'voronoiSph.m'
